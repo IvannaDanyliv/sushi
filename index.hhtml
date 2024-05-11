@@ -1,0 +1,59 @@
+<html>
+    <head>
+         <title>losysh </title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+      <header>
+<table>
+    <tr>
+        <td class="t">losysh</td>
+        <td><a href=""><img class="w" src="https://la.ua/wp-content/uploads/2023/01/variant-4.svg"></a></td>
+        <td><a href=""><img class="w" src="https://la.ua/wp-content/uploads/2021/06/menu-icon-5.svg"></a></td>
+        <td> <a href=""><img class="w" src="https://la.ua/wp-content/uploads/2021/06/menu-icon-2.svg"></a></td>
+        <td><a href=""><img class="w" src="https://la.ua/wp-content/uploads/2021/06/menu-icon-4.svg"></a></td>
+        <td><a href=""><img class="w" src="https://la.ua/wp-content/uploads/2022/06/sushi.svg"></a> </td>
+        <td>  <p>  <img class="ey" src="https://la.ua/wp-content/themes/lapiec/assets/frontend/img/header_location.svg"> Ivano-Frankivsk </p> </td>
+    </tr>
+</table>
+
+</header>
+<main>
+<p class="moli"> Sushi </p>
+<section>
+<article>
+<img class="div" src="https://la.ua/wp-content/uploads/2021/08/popular-set-california-set-with-shrimp-philadelphia-with-salmon-philadelphia-super-cheese-futomaki-with-avocado-hover.webp" >
+<p class="olp"> Popularity </p>
+<p class="olp" >Каліфорнійські з креветкою - 1 шт, 
+    Філадельфія з лососем - 1 шт, 
+    Філадельфія супер сир - 1 шт,
+    Макі з авокадо - 1 шт. </p>
+<p ><span> 600</span> грн<span> -</span> <span class="r">1</span>   <span>+</span></p>
+ </article>
+<article>
+    <img class="div" src="https://la.ua/wp-content/uploads/2021/08/california-set-california-with-salmon-california-with-eel-california-with-shrimp-california-with-tuna-hover.webp">
+    <p class="olp"> California </p>
+    <p class="olp">Каліфорнійські з лососем - 1 шт, 
+        Каліфорнійські з вугрем - 1 шт, 
+        Каліфорнійські з креветкою - 1 шт, 
+        Каліфорнійські з тунцем - 1 шт.  </p>
+    <p><span>590</span> грн <span>  - </span> <span class="ko">1</span>  <span>+</span></p>
+    </article>
+    </section>
+     <iframe width="695" height="391" src="https://www.youtube.com/embed/0fI0SeSpc8o" title="10 дуже цікавих фактів про суші та роли" frameborder="0" ></iframe>
+</main>
+                <footer>
+
+<img class="io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png">
+ <img class="io" src="https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/2ab4cfe8c6f4d2488f3b46136fdcb779"> <img class="io" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464">
+
+
+
+
+
+
+
+                    
+                </footer>
+                </body>
+                </html>
